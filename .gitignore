@@ -33,3 +33,9 @@ bower.json
 
 # Ignore pow environment settings
 .powenv
+.aws-docker*
+*.swo
+*.swp
+*.swm
+*.swn
+Gemfile.lock
